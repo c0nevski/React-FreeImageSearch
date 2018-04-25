@@ -5,7 +5,7 @@
 ## Setup
 
 1.  clone the repo to your machine
-2.  run npm init
+2.  run npm install
 3.  register an account on pixabay.com
 4.  aquire an API KEY from pixabay
 5.  create .env file in the root directory and add the following:
